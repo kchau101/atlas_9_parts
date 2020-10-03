@@ -1,0 +1,8 @@
+Getriebe Bibliothek f&uuml;r OpenSCAD / Gears Library for OpenSCAD (https://www.thingiverse.com/thing:1604369) by janssen86 is licensed under the Creative Commons - Attribution - Non-Commercial - Share Alike license.
+http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+gears, is written/translated by chrisspen and included as a submodule.
+License is as specified in the subdirectory.
+
+All other files here are written by kchau101 and are also licensed under the Creative Commons - Attribution - Non-Commercial - Share Alike license.
+http://creativecommons.org/licenses/by-nc-sa/3.0/
